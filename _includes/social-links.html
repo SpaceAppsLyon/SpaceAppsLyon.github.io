@@ -19,4 +19,14 @@
     <a href="https://www.flickr.com/photos/{{ site.social.flickr }}"><i class="fa fa-flickr fa-fw fa-2x"></i></a>
   </li>
   {% endif %}
+  {% if site.social.discourse %}
+  <li>
+    <a href="http://{{ site.social.discourse }}"><i class="fa fa-commenting-o fa-fw fa-2x"></i></a>
+  </li>
+  {% endif %}
+  {% if site.social.meetup %}
+  <li>
+    <a href="https://www.meetup.com/fr-FR/{{ site.social.meetup }}/"><i class="fa fa-coffee fa-fw fa-2x"></i></a>
+  </li>
+  {% endif %}
 </ul>

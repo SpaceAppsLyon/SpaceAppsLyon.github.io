@@ -1,13 +1,20 @@
 <footer>
   <div class="container">
     <div class="row">
-      <div class="col-lg-6 text-center">
-        <p class="text-muted">Copyright &copy; {{ site.copyright }} 20{{ site.time | date: '%y' }}</p>
+      <div class="col-lg-10 col-lg-offset-1 text-center">
+        <h4><strong>{{ site.title }}</strong>
+        </h4>
+        <h5>Du {{ site.edition.date }}</h5>
+        <p>
+          {% for address in site.address %}
+          {{ address.line }}<br>
+          {% endfor %}
+        </p>
+        <ul class="list-unstyled">
+          <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </li>
+        </ul>
       </div>
-        <div class="col-lg-6 text-center">
-          <p class="text-muted">
-            Made using an <a href="https://github.com/volny/stylish-portfolio-jekyll">open source theme</a>.</p>
-        </div>
     </div>
   </div>
 </footer>

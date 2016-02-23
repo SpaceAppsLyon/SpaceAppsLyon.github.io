@@ -1,24 +1,25 @@
 # Site settings
-title: Space Apps Exeter
-email: space-apps@informaticslab.co.uk
+title: Space Apps Lyon
+edition:
+  date: "22 au 24 avril 2016"
+  year: 2016
+email: spaceappslyon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Once again the Met Office is proud to be hosting NASA's Space Apps Challenge.
+  Space Apps, challenge d'innovation de la NASA à Lyon, aux Subsistances du 22 au 24 avril 2016
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://spaceappsexeter.org/" # the base hostname & protocol for your site
+url: "http://spaceappslyon.com/" # the base hostname & protocol for your site
 
 # User setting
 social:
-  twitter: spaceappsexeter
-  flickr: spaceappsexeter
+  twitter: spaceappslyon
+  facebook: spaceappslyon
+  github: spaceappslyon
+  discourse: hub.spaceappslyon.com
+  meetup: Space-Apps-Lyon
 
 address:
-  - line: "Met Office"
-  - line: "Fitzroy Road, Exeter, Devon, EX1 3PB"
-copyright: Crown
-
-# API settings
-google_api_key: AIzaSyC27hz24IBSijJOzkQfou9PD8hfw3E9b0M
-google_analytics: UA-72192919-1
+  - line: "Les Subsistances"
+  - line: "8 bis Quai Saint-Vincent, 69001 Lyon"
 
 # Build settings
 markdown: kramdown

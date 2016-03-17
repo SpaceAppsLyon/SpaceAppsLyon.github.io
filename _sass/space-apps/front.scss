@@ -131,20 +131,29 @@
 
 /* Contact */
 
-.contact {
-  color: $grey;
+@media(min-width:768px) {
+  .contact {
     padding: 50px 0;
     padding-bottom: 80px;
-    background-color: $cream;
+  }
 
-    h3 {
-      margin-bottom: 30px;
-    }
+  .btn {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
 
-    .btn {
-      margin-left: 20px;
-      margin-right: 20px;
-    }
+.contact {
+  color: $grey;
+  background-color: $cream;
+
+  h3 {
+    margin-bottom: 30px;
+  }
+
+  .btn-viewport {
+    max-width: 100%;
+  }
 }
 
 /* Map */

@@ -5,9 +5,15 @@ edition:
   year: 2016
 email: spaceappslyon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Space Apps, challenge d'innovation de la NASA à Lyon, aux Subsistances du 22 au 24 avril 2016
+  Space Apps, challenge d'innovation international de la NASA à Lyon, aux Subsistances du 22 au 24 avril 2016.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://spaceappslyon.com/" # the base hostname & protocol for your site
+avatar: "/img/logos/spaceappslyon_black.png"
+show-avatar: true
+
+default:
+  values:
+    comments: true
 
 # User setting
 social:
@@ -16,6 +22,18 @@ social:
   github: spaceappslyon
   discourse: hub.spaceappslyon.com
   meetup: Space-Apps-Lyon
+
+# Navabar for pages
+navbar-links:
+  Home: "http://spaceappslyon.com"
+  Informations:
+    - Space Apps, c'est quoi ?: "space-apps-challenge-c-est-quoi"
+    - Qui peut participer ?: "qui-peut-participer-a-space-apps"
+    - Déroulement: "deroulement-space-apps-lyon-2016"
+    - Challenges: "les-challenges-de-la-nasa-space-apps-2016"
+    - Jury: "competition-jury-de-space-apps-lyon-2016"
+    - Comment venir?: "venir-a-space-apps-lyon-aux-subsistances"
+  Inscriptions: "https://www.eventbrite.com/e/inscription-space-apps-2016-challenge-dinnovation-de-la-nasa-22118556197?aff=web"
 
 address:
   - line: "Les Subsistances"

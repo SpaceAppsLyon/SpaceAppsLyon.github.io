@@ -1,27 +1,36 @@
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Challenge d'innovation de la NASA aux Subsistances du 22 au 24 avril 2016, Lyon.">
-  <meta name="author" content="Space Apps Lyon">
-  <meta name="google-site-verification" content="4qBzKdGEJFspN8575OkEpz2AvBFCvm4B1oQ_vWkktT8" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Challenge d'innovation de la NASA aux Subsistances du 22 au 24 avril 2016, Lyon.">
+<meta name="author" content="Space Apps Lyon">
+<meta name="google-site-verification" content="4qBzKdGEJFspN8575OkEpz2AvBFCvm4B1oQ_vWkktT8" />
 
-  <title>{{ site.title }}</title>
+<title>{{ site.title }}</title>
 
-  <!-- Bootstrap -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<!-- Bootstrap -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
-  <!-- Custom CSS -->
-  <link href="css/style.css" rel="stylesheet">
-
-  <!-- Custom Fonts -->
-  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-  <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-  <![endif]-->
-
-</head>
+<!-- Custom Fonts -->
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- Facebook OpenGraph tags -->
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta property="og:type" content="website" />
+{% if page.id %}
+<meta property="og:url" content="{{ site.url }}{{ page.url }}/" />
+{% else %}
+<meta property="og:url" content="{{ site.url }}" />
+{% endif %}
+{% if page.fb-img %}
+<meta property="og:image" content="{{ page.fb-img }}" />
+{% elsif site.avatar %}
+<meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
+{% else %}
+<meta property="og:image" content="" />
+{% endif %}

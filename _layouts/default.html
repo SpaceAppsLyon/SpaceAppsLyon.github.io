@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+  {% include head.html %}
+
+  <!-- Custom CSS -->
+  <link href="css/style-page.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    {% include nav.html %}
+
+    {{ content }}
+    {% include footer.html %}
+    {% include scripts.html %}
+    <!-- Custom Theme JavaScript for pages -->
+    <script src="js/bjekyll.js"></script>
+  </body>
+</html>

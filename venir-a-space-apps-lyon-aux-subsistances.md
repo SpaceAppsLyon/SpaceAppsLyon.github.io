@@ -12,7 +12,11 @@ bigimg:
   - "/img/pages/sombrero.jpg"
 ---
 
-En construction.
+Les Subsistances, 8 Quai St Vincent, 69001 Lyon, France
+
+Utilisez Citymapper pour planifier votre venue, quel que soit le moyen de transport:
+
+<a href='https://citymapper.com/go/5y1vgh' target="_blank"><img src="https://static.citymapper.com/img/embed/GetMeThere_Citymapper.png" alt="Get directions with Citymapper" /></a>
 
 <section id="map" class="map">
 <iframe id="map_iframe"

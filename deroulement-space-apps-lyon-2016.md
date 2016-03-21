@@ -12,4 +12,4 @@ bigimg:
   - "/img/pages/sombrero.jpg"
 ---
 
-En construction.
+Bientôt !

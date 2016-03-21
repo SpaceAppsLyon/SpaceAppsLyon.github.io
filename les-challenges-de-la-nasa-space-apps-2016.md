@@ -2,6 +2,9 @@
 layout: page
 title: Challenges
 subtitle: Des challenges dans six thématiques pour l'édition 2016
+sitemap:
+  priority: 0.6
+
 discourseId: 24
 bigimg:
   - "/img/pages/earth.jpg"

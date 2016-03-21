@@ -2,6 +2,8 @@
 layout: page
 title: Qui peut participer ?
 subtitle: Le challenge est ouvert à toutes et à tous, quelles que soient vos compétences.
+sitemap:
+  priority: 0.7
 discourseId: 22
 bigimg:
   - "/img/pages/earth.jpg"

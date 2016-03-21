@@ -2,6 +2,8 @@
 layout: page
 title: Space Apps ?
 subtitle: C'est quoi ? Un hackathon ? Un challenge ? Un concours ?
+sitemap:
+  priority: 0.7
 discourseId: 21
 bigimg:
   - "/img/pages/earth.jpg"

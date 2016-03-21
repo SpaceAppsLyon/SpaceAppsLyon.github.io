@@ -2,6 +2,7 @@
 layout: page
 title: Space Apps ?
 subtitle: C'est quoi ? Un hackathon ? Un challenge ? Qui peut participer ?
+discourseId: 25
 bigimg:
   - "/img/pages/earth.jpg"
   - "/img/pages/europa.jpg"

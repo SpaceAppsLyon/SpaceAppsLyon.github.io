@@ -2,6 +2,7 @@
 layout: page
 title: Comment venir à Space Apps Lyon ?
 subtitle: En 2016, Space Apps aura lieu aux Subsistances, dans le centre-ville de Lyon.
+discourseId: 26
 bigimg:
   - "/img/pages/earth.jpg"
   - "/img/pages/europa.jpg"

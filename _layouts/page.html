@@ -12,7 +12,7 @@ layout: default
 
       <script type="text/javascript">
         DiscourseEmbed = { discourseUrl: 'http://hub.spaceappslyon.com/',
-                           discourseEmbedUrl:  "http://spaceappslyon.com<%= current_page.url %>"};
+                           topicId: {{ page.discourseId }} };
 
         (function() {
           var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;

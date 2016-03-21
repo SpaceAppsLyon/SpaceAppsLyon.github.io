@@ -2,6 +2,7 @@
 layout: page
 title: Challenges
 subtitle: Des challenges dans six thématiques pour l'édition 2016
+discourseId: 24
 bigimg:
   - "/img/pages/earth.jpg"
   - "/img/pages/europa.jpg"

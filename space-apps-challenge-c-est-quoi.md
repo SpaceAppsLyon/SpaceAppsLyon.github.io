@@ -10,9 +10,13 @@ Space Apps est le challenge d'innovation international de la NASA. L'association
 
 ### Est-ce que Space Apps est un hackathon ?
 
-D'une certaine façon, Space Apps est le plus grand hackathon du monde : des équipes sur toute la planète travaillent pendant un weekend pour produire des prototypes répondant à des challenges dans diverses thématiques. Dans la philosophie du hackathon, les solutions sont libres.
+Space Apps est le plus grand hackathon du monde : les participants se rencontrent, sympathisent et forment des équipes pour résoudre des problèmes concrets de l'humanité, sur terre et dans l'espace. Il y aura plus de 10 000 participants dans 160 villes du monde cette année !
 
-Sur le format, Space Apps est donc un hackathon. En revanche, les hackathons sont généralement réservés aux développeurs, mais __Space Apps Lyon est ouvert à toutes et à tous, quelles que soient leurs compétences__. Nous préférons donc le terme challenge d'innovation !
+Space Apps se déroule sur un weekend, et les solutions produites aux challenges proposés par la NASA sont libres.
+
+Space Apps est donc un hackathon ... mais un hackathon pas comme les autres !
+
+Les hackathons visent généralement les développeurs, mais __Space Apps Lyon est ouvert à toutes et à tous, quelles que soient leurs compétences.__ Nous préférons donc le terme challenge d'innovation !
 
 ### Je ne sais pas coder. Je peux venir ?
 

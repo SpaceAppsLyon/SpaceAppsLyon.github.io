@@ -1,17 +1,9 @@
 ---
-layout: page
 title: Space Apps ?
 subtitle: C'est quoi ? Un hackathon ? Un challenge ? Un concours ?
 sitemap:
   priority: 1
 discourseId: 21
-bigimg:
-  - "/img/pages/earth.jpg"
-  - "/img/pages/europa.jpg"
-  - "/img/pages/mars.jpg"
-  - "/img/pages/space.jpg"
-  - "/img/pages/shuttle.jpg"
-  - "/img/pages/sombrero.jpg"
 ---
 
 Space Apps est le challenge d'innovation international de la NASA. L'association Space Apps Lyon organise l'édition Lyonnaise du challenge depuis 2015 !

@@ -1,15 +1,7 @@
 ---
-layout: page
 title: Déroulement
 subtitle: Déroulement et calendrier de Space Apps Lyon 2016
 discourseId: 23
-bigimg:
-  - "/img/pages/earth.jpg"
-  - "/img/pages/europa.jpg"
-  - "/img/pages/mars.jpg"
-  - "/img/pages/space.jpg"
-  - "/img/pages/shuttle.jpg"
-  - "/img/pages/sombrero.jpg"
 ---
 
 L'ensemble de l'évènement [se déroule aux Subsistances](venir-a-space-apps-lyon-aux-subsistances).

@@ -1,15 +1,7 @@
 ---
-layout: page
 title: Le challenge
 subtitle: Une compétition locale et internationale
 discourseId: 25
-bigimg:
-  - "/img/pages/earth.jpg"
-  - "/img/pages/europa.jpg"
-  - "/img/pages/mars.jpg"
-  - "/img/pages/space.jpg"
-  - "/img/pages/shuttle.jpg"
-  - "/img/pages/sombrero.jpg"
 ---
 
 ## Compétition à Lyon

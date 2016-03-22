@@ -11,9 +11,21 @@ url: "http://spaceappslyon.com/" # the base hostname & protocol for your site
 avatar: "/img/logos/spaceappslyon_black.png"
 show-avatar: true
 
-default:
-  values:
-    comments: true
+defaults:
+   -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      bigimg:
+        - "/img/pages/earth.jpg"
+        - "/img/pages/europa.jpg"
+        - "/img/pages/mars.jpg"
+        - "/img/pages/space.jpg"
+        - "/img/pages/shuttle.jpg"
+        - "/img/pages/sombrero.jpg"
 
 # User setting
 social:

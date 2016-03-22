@@ -1,17 +1,9 @@
 ---
-layout: page
 title: Qui peut participer ?
 subtitle: Le challenge est ouvert à toutes et à tous, quelles que soient vos compétences.
 sitemap:
   priority: 0.7
 discourseId: 22
-bigimg:
-  - "/img/pages/earth.jpg"
-  - "/img/pages/europa.jpg"
-  - "/img/pages/mars.jpg"
-  - "/img/pages/space.jpg"
-  - "/img/pages/shuttle.jpg"
-  - "/img/pages/sombrero.jpg"
 ---
 
 Space Apps est un challenge d'innovation, faisant appel à toutes les compétences et à toutes les personnalités. Ce n'est pas un événement pour codeurs uniquement !

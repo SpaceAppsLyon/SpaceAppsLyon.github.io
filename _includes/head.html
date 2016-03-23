@@ -37,31 +37,53 @@
 
 <!-- JSON-LD markup for Structured Data. -->
 <script type="application/ld+json">
-{
-  "@context" : "http://schema.org",
-  "@type" : "Event",
-  "name" : "Space Apps Lyon, challenge d'innovation de la NASA",
-  "startDate" : "2016-04-22T19:00",
-  "endDate" : "2016-04-24T19:00",
-  "location" : {
-    "@type" : "Place",
-    "name" : "Les Subsistances",
-    "address" : {
-      "@type" : "PostalAddress",
-      "streetAddress" : "8 bis Quai Saint-Vincent",
-      "addressLocality" : "Lyon",
-      "postalCode" : "69001"
+[
+  {
+    "@context" : "http://schema.org",
+    "@type" : "Event",
+    "name" : "Space Apps Lyon, challenge d'innovation de la NASA",
+    "startDate" : "2016-04-22T19:00",
+    "endDate" : "2016-04-24T19:00",
+    "location" : {
+      "@type" : "Place",
+      "name" : "Les Subsistances",
+      "address" : {
+        "@type" : "PostalAddress",
+        "streetAddress" : "8 bis Quai Saint-Vincent",
+        "addressLocality" : "Lyon",
+        "postalCode" : "69001"
+      },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "45.768",
+      "longitude": "4.816"
+      }
+    },
+    "typicalAgeRange": "7-77",
+    "image" : "http://spaceappslyon.com/img/logos/spaceappslyon_black.png",
+    "description" : "Space Apps est le challenge  d'innovation international de la NASA, se déroulant pendant 48 heures dans plus de 140 villes sur la planète.Travaillez en équipe pour résoudre des challenges concrets, qui peuvent aider à changer le monde !",
+    "url" : "http://www.eventbrite.com/e/inscription-space-apps-2016-challenge-dinnovation-de-la-nasa-un-hackathon-pas-comme-les-autres-22118556197?aff=goo",
+    "offers" : {
+      "@type" : "Offer",
+      "price" : "0",
+      "priceCurrency" : "EUR",
+      "url" : "http://www.eventbrite.com/e/inscription-space-apps-2016-challenge-dinnovation-de-la-nasa-un-hackathon-pas-comme-les-autres-22118556197?aff=goo"
     }
   },
-  "typicalAgeRange": "7-77",
-  "image" : "http://spaceappslyon.com/img/logos/spaceappslyon_black.png",
-  "description" : "Space Apps est le challenge  d'innovation international de la NASA, se déroulant pendant 48 heures dans plus de 140 villes sur la planète.Travaillez en équipe pour résoudre des challenges concrets, qui peuvent aider à changer le monde !",
-  "url" : "http://www.eventbrite.com/e/inscription-space-apps-2016-challenge-dinnovation-de-la-nasa-un-hackathon-pas-comme-les-autres-22118556197?aff=goo",
-  "offers" : {
-    "@type" : "Offer",
-    "price" : "0",
-    "priceCurrency" : "EUR",
-    "url" : "http://www.eventbrite.com/e/inscription-space-apps-2016-challenge-dinnovation-de-la-nasa-un-hackathon-pas-comme-les-autres-22118556197?aff=goo"
+  {
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Space Apps Lyon",
+  "email" : "spaceappslyon@gmail.com",
+  "logo" : "http://spaceappslyon.com/img/logos/spaceappslyon_black.png",
+  "url" : "http://spaceappslyon.com",
+  "sameAs" : [
+    "http://www.facebook.com/spaceappslyon",
+    "http://www.twitter.com/spaceappslyon",
+    "http://plus.google.com/+Spaceappslyon_nasa",
+    "http://github.com/spaceappslyon"
+    ],
+  "foundingDate" : "2015-02-06"
   }
-}
+]
 </script>

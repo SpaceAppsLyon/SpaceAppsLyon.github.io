@@ -22,7 +22,7 @@ Heure | Que se passe-t-il ?
 --- | --- | ---
 8h | Petit déjeuner et début du challenge !
 8h30 | Tout le monde a une équipe
-13h-14h | Pause déjeuner
+12-13h ou 13-14h | Pause déjeuner
 20h | Les classiques pizzas
 00h | Fin de la journée, mais le challenge continue pour les nocturnes
 
@@ -32,9 +32,8 @@ Heure | What's next ?
 --- | --- | ---
 00h | Le challenge continue
 8h | Petit déjeuner
-13h-14h | Pause déjeuner
-16h30 | Fin du challenge !
-17h | Pitchs
-18h | Délibération du jury
-18h30 | Remise des prix
+12-13h ou 13-14h| Pause déjeuner
+16h00 | Fin du challenge ! Place aux pitchs !
+17h15 | Fin de présentations, délibération du jury
+18h | Remise des prix
 19h | Clôture

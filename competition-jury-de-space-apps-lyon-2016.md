@@ -6,7 +6,7 @@ discourseId: 25
 
 ## Compétition à Lyon
 
-Le jury local récompensera les trois meilleures équipes de l'édition 2016 de Space Apps Lyon.
+Le jury local récompensera les trois meilleures équipes de l'édition 2018 de Space Apps Lyon.
 Il est constitué, entre autres, par des partenaires de l'association.
 
 Le jury sera bientôt révélé !

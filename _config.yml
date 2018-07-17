@@ -1,13 +1,13 @@
 # Site settings
 title: Space Apps Lyon
 edition:
-  date: "22 au 24 avril 2016"
-  year: 2016
+  date: "20 au 21 octobre 2018"
+  year: 2018
 email: spaceappslyon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Space Apps, challenge d'innovation international de la NASA à Lyon, aux Subsistances du 22 au 24 avril 2016.
+  Space Apps, challenge d'innovation international de la NASA à Lyon, au Planétarium du 19 au 21 octobre 2018.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://spaceappslyon.com/" # the base hostname & protocol for your site
+url: "http://spaceappslyon.fr/" # the base hostname & protocol for your site
 avatar: "/img/logos/spaceappslyon_black.png"
 show-avatar: true
 
@@ -39,7 +39,7 @@ social:
 
 # Navabar for pages
 navbar-links:
-  Home: "http://spaceappslyon.com"
+  Home: "http://spaceappslyon.fr"
   Informations:
     - Space Apps, c'est quoi ?: "space-apps-challenge-c-est-quoi"
     - Qui peut participer ?: "qui-peut-participer-a-space-apps"
@@ -50,8 +50,8 @@ navbar-links:
   Inscriptions: "https://2016.spaceappschallenge.org/locations/lyon-france"
 
 address:
-  - line: "Les Subsistances"
-  - line: "8 bis Quai Saint-Vincent, 69001 Lyon"
+  - line: "Planétarium"
+  - line: "Place de la Nation, 69120 Vaulx-en-Velin"
 
 # Build settings
 markdown: kramdown

@@ -9,5 +9,3 @@ Planétarium, Place de la Nation, Vaulx-en-Velin, France
 Utilisez Citymapper pour planifier votre venue, quel que soit le moyen de transport:
 
 <a href='https://citymapper.com/go/suchsroyeu' target="_blank"><img src="https://static.citymapper.com/img/embed/GetMeThere_Citymapper.png" alt="trouvez votre trajet avec Citymapper" /></a>
-
-<script src='https://static.citymapper.com/js/embed/widget.js' data-slug='suchsroyeu' data-width=300 ></script>

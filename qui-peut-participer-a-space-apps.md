@@ -18,4 +18,6 @@ Une équipe pour les enfants sera sans doute constituée : __[merci de nous cont
 
 Nous pensons que __l'innovation provient du croisement d'univers et de compétences__ très divers, et la NASA est d'accord !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dtD4lT95_zo" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dtD4lT95_zo" frameborder="0" allowfullscreen></iframe>
+</div>

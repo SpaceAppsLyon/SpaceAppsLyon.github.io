@@ -182,7 +182,7 @@ hr.small {
 	height:100%;
 }
 
-@media(min-width:450px) {
+@media(max-width:450px) {
 	.btn-chunky {
 	  padding: 15px 13px;
 	}

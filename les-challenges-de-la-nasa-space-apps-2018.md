@@ -1,6 +1,6 @@
 ---
 title: Challenges
-subtitle: Des challenges dans six thématiques pour l'édition 2016
+subtitle: Les thématiques pour l'édition 2018 seront bientôt dévoilées
 sitemap:
   priority: 0.7
 discourseId: 24

@@ -20,14 +20,14 @@ defaults:
       layout: "page"
       comments: true
       bigimg:
-        - "/img/pages/earth_rise.jpg"
-        - "/img/pages/earth.jpg"
-        - "/img/pages/europa.jpg"
-        - "/img/pages/mars.jpg"
-        - "/img/pages/space.jpg"
-        - "/img/pages/shuttle.jpg"
-        - "/img/pages/sombrero.jpg"
-        - "/img/pages/growing.jpg"
+        - "/img/pages/SLS-engine-section.jpg"
+        - "/img/pages/alaskan-coast.jpg"
+        - "/img/pages/nasa-01.jpg"
+        - "/img/pages/omega-nebula.jpg"
+        - "/img/pages/orion-parachutes.jpg"
+        - "/img/pages/red-planet-hale-crater.jpg"
+        - "/img/pages/spacex-dragon.jpg"
+        - "/img/pages/super-hot-ground-test.jpg"
 
 # User setting
 social:

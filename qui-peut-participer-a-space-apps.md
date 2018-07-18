@@ -6,9 +6,15 @@ sitemap:
 discourseId: 22
 ---
 
+## Tout-le-monde !
+
 Space Apps est un challenge d'innovation, faisant appel à toutes les compétences et à toutes les personnalités. Ce n'est pas un événement pour codeurs uniquement !
 
+### .... peut-être même les enfants !
+
 Une équipe pour les enfants sera sans doute constituée - [merci de nous contacter à ce sujet](mailto:spaceappslyon@gmail.com) en spécifiant l'âge des participants. Dans l'idéal, un adulte devra les accompagner !
+
+### La NASA est d'accord
 
 Nous pensons que l'innovation provient du croisement d'univers et de compétences très divers, et la NASA est d'accord !
 

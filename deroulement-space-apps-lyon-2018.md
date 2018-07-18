@@ -8,4 +8,4 @@ L'ensemble de l'évènement [se déroulera au Planétarium](venir-a-space-apps-l
 
 ## Stay tuned
 
-Bientôt plus d'informations sur le déroulé.
+_Bientôt plus d'informations sur le déroulé._

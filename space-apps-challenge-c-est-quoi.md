@@ -52,7 +52,6 @@ En 2018, le challenge [aura lieu au Planétarium](venir-a-space-apps-lyon-au-pla
 
 ### Comment s'inscrire ?
 
-Space Apps Lyon propose des pré-inscriptions, sachant que pour pouvoir participer officiellement au challenge, il sera aussi demandé aux participant·e·s de [s'inscrire sur le site de la NASA](https://2018.spaceappschallenge.org/locations/lyon-france).<br>
-<div class="text-center">
-<a href="https://www.eventbrite.fr/e/billets-space-apps-2018-challenge-dinnovation-la-nasa-a-besoin-de-vous-48157155348?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=escb&amp;utm-source=cp&amp;utm-term=listing" class="btn btn-lg btn-chunky" target="_blank"><span class="fa fa-rocket"></span> Pré-inscription</a>
+S'inscrire à SpaceApps est gratuit et c'est par ici :
+<a href="https://www.eventbrite.fr/e/billets-space-apps-2018-challenge-dinnovation-la-nasa-a-besoin-de-vous-48157155348?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=escb&amp;utm-source=cp&amp;utm-term=listing" class="btn btn-lg btn-chunky" target="_blank"><span class="fa fa-rocket"></span> Inscription</a>
 </div>

@@ -8,4 +8,4 @@ discourseId: 24
 
 ## Thématiques
 
-Les thèmes de cette année seront __#Earth__ et __#Space__ (Terre et Espace) ! A partir de ces thémtiques, vous pourrez __choisir vos propres challenges__. Bien sûr, la NASA en proposera le moment venu pour le défi ! _Stay tuned !_
+Les thèmes de cette année seront __#Earth__ et __#Space__ (Terre et Espace) ! À partir de ces thématiques, vous pourrez __choisir vos propres challenges__. Bien sûr, la NASA en proposera le moment venu pour le défi : _stay tuned !_

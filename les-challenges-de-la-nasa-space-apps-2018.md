@@ -8,4 +8,4 @@ discourseId: 24
 
 ## Thématiques
 
-Pour la septième édition du Space Apps challenge, la NASA proposera des thématiques qui couvrant un champ immense d’applications sur Terre et dans l’espace... _stay tuned !_
+Les thèmes de cette année seront __#Earth__ et __#Space__ (Terre et Espace) ! A partir de ces thémtiques, vous pourrez __choisir vos propres challenges__. Bien sûr, la NASA en proposera le moment venu pour le défi ! _Stay tuned !_

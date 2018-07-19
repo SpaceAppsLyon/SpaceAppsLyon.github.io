@@ -52,6 +52,7 @@ En 2018, le challenge [aura lieu au Planétarium](venir-a-space-apps-lyon-au-pla
 
 ### Comment s'inscrire ?
 
-S'inscrire à SpaceApps est gratuit et c'est par ici :
-<a href="https://www.eventbrite.fr/e/billets-space-apps-2018-challenge-dinnovation-la-nasa-a-besoin-de-vous-48157155348?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=escb&amp;utm-source=cp&amp;utm-term=listing" class="btn btn-lg btn-chunky" target="_blank"><span class="fa fa-rocket"></span> Inscription</a>
+S'inscrire à SpaceApps est gratuit et c'est par ici : 
+<div class="text-center">
+  <a href="https://www.eventbrite.fr/e/billets-space-apps-2018-challenge-dinnovation-la-nasa-a-besoin-de-vous-48157155348?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=escb&amp;utm-source=cp&amp;utm-term=listing" class="btn btn-lg btn-chunky" target="_blank"><span class="fa fa-rocket"></span> Inscription</a>
 </div>

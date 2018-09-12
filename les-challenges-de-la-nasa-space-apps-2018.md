@@ -17,7 +17,7 @@ Autrement, la NASA nous a concocté quelques catégories !
 
 #### Can you build a... - Je voudrais un...
 Les gens construisent pleins de trucs pour soutenir la vie sur Terre et explorer l'espace ! Des bâtiments, des avions, des voitures et des fusées, des ordinateurs, des satellites, des habitats et une foule vertigineuse d’autres trucs. Si quelqu'un y pense ou en a le besoin, alors il y a probablement quelqu’un pour le construire, que ce soit aujourd'hui ou demain.  
-![Petite fusée](img/rocket.png) Les défis de cette catégorie vous demanderont d’utiliser les données de la NASA pour résoudre de manière créative les problèmes et **montrer comment vous créeriez une variété de choses : bâtiments, aides robotiques, outils de science citoyenne... les possibilités sont infinies !**
+![Petite fusée](img/rocket-min.png) Les défis de cette catégorie vous demanderont d’utiliser les données de la NASA pour résoudre de manière créative les problèmes et **montrer comment vous créeriez une variété de choses : bâtiments, aides robotiques, outils de science citoyenne... les possibilités sont infinies !**
 
 #### Help others discover the earth - _En aider d'autres à découvrir la terre_
 Comprendre le domaine de la science est essentiel pour vivre sur Terre. Par exemple : Comment l'eau se déplace-t-elle ? Comment fonctionne notre atmosphère ? Pourquoi la glace et la neige sont-elles importantes ? Et franchement, qu'est-ce que la saleté ? La Terre est composée de systèmes compliqués - terre, eau, air, êtres vivants et la planète en elle-même - et la compréhension de ces systèmes est utile.  

@@ -23,7 +23,7 @@ Les gens construisent pleins de trucs pour soutenir la vie sur Terre et explorer
 Comprendre le domaine de la science est essentiel pour vivre sur Terre. Par exemple : Comment l'eau se déplace-t-elle ? Comment fonctionne notre atmosphère ? Pourquoi la glace et la neige sont-elles importantes ? Et franchement, qu'est-ce que la saleté ? La Terre est composée de systèmes compliqués - terre, eau, air, êtres vivants et la planète en elle-même - et la compréhension de ces systèmes est utile.  
 ![Petite fusée](img/rocket-min.png) Les défis de cette catégorie vous demanderont de créer quelque chose en utilisant des données de la NASA - une histoire, un jeu, une vidéo ou une autre solution - qui pourra **aider les gens à découvrir le fonctionnement de la Terre.**
 
-#### Volcanoes, icebergs and asteroids (Oh my) - _Volcans, icebergs et astéroïds (oulàh)_
+#### Volcanoes, icebergs and asteroids (Oh my) - _Volcans, icebergs et astéroïds (Wow)_
 Notre planète et notre système solaire sont pleins de surprises - des bonnes et des mauvaises ! Les bonnes sont celles que nous considérons comme nous étant utiles, par exemple quand une averse longtemps attendue remplit un lac ou un chateau d'eau. Nous appelons les mauvaises, des «catastrophes» - par exemple, lorsque cette même averse provoque une inondation dommageable. Ce que tous ces événements ont en commun est que 1) ils nous affectent ; et 2) nous aurions aimé savoir à l'avance leur venue, si possible, afin de pouvoir nous préparer.  
 ![Petite fusée](img/rocket-min.png) Les défis de cette catégorie vous demanderont d'analyser les données de la NASA pour **anticiper, surveiller et récupérer (ou utiliser au mieux !) ces événements “surprise”.**
 

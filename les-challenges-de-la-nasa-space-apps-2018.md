@@ -13,7 +13,8 @@ Les thèmes de cette année seront __#Earth__ et __#Space__ (Terre et Espace) ! 
 Autrement, la NASA nous a concocté quelques catégories !
 
 ### Catégories
-<br>
+
+
 #### Can you build a... - Je voudrais un...
 Les gens construisent pleins de trucs pour soutenir la vie sur Terre et explorer l'espace ! Des bâtiments, des avions, des voitures et des fusées, des ordinateurs, des satellites, des habitats et une foule vertigineuse d’autres trucs. Si quelqu'un y pense ou en a le besoin, alors il y a probablement quelqu’un pour le construire, que ce soit aujourd'hui ou demain.  
  :rocket: Les défis de cette catégorie vous demanderont d’utiliser les données de la NASA pour résoudre de manière créative les problèmes et **montrer comment vous créeriez une variété de choses : bâtiments, aides robotiques, outils de science citoyenne... les possibilités sont infinies !**

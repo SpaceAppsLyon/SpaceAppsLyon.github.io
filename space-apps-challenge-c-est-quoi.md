@@ -10,7 +10,7 @@ Space Apps est le __challenge d'innovation international de la NASA__. L'associa
 
 ## Est-ce que Space Apps est un hackathon ?
 
-Space Apps est __le plus grand hackathon du monde__ : les participants se rencontrent, sympathisent et forment des équipes pour résoudre des problèmes concrets de l'humanité, sur terre et dans l'espace. Il y aura plus de 10 000 participants dans 160 villes du monde cette année !
+Space Apps est __le plus grand hackathon du monde__ : les participants se rencontrent, sympathisent et forment des équipes pour résoudre des problèmes concrets de l'humanité, sur terre et dans l'espace. Il y aura plus de 25 000 participants dans 180 villes du monde cette année !
 
 Space Apps se déroule sur __un weekend__, et les solutions produites aux challenges proposés par la NASA sont __libres__.
 

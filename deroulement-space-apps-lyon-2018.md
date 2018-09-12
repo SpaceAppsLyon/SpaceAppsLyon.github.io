@@ -11,7 +11,6 @@ L'ensemble de l'évènement [se déroulera au Planétarium](venir-a-space-apps-l
 _Voici un petit déroulé en cours de finalisation !_
 
 - Vendredi 9 octobre : soirée de lancement **à partir de 18h00**
-L'occasion de vous donner des précisions sur le déroulé du week-end, faire la présentation des catégories et constituer les équipes.
-
+<br>_L'occasion de vous donner des précisions sur le déroulé du week-end, faire la présentation des catégories et constituer les équipes._
 - Samedi 20 Octobre : **8h30 - 23h00**
 - Dimanche 21 Octobre : **8h30 - 20h00**

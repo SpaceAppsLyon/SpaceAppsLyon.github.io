@@ -5,6 +5,7 @@ discourseId: 23
 ---
 
 L'ensemble de l'évènement [se déroulera au Planétarium](venir-a-space-apps-lyon-au-planetarium).<br>
+Si vous vous êtes [déjà inscrits pour 2018](https://www.eventbrite.fr/e/billets-space-apps-2018-challenge-dinnovation-la-nasa-a-besoin-de-vous-48157155348), pensez à **valider votre inscription** [en adhérant à l'association](https://www.helloasso.com/associations/space-apps-lyon/adhesions/adhesion-a-space-apps-lyon) !<br>
 
 ## Stay tuned
 

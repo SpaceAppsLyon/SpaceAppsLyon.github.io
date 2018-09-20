@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Space Apps, challenge d'innovation international de la NASA à Lyon, au Planétarium du 19 au 21 octobre 2018.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://spaceappslyon.fr/" # the base hostname & protocol for your site
-avatar: "/img/logos/spaceappslyon_black.png"
+avatar: "/img/logos/Space-apps-apercu.jpg"
 show-avatar: true
 
 defaults:

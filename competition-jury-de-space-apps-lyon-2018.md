@@ -7,7 +7,6 @@ discourseId: 25
 ## Compétition à Lyon
 
 Le jury local récompensera les __trois meilleures équipes__ de l'édition 2018 de Space Apps Lyon.
-Il est constitué, entre autres, par des partenaires de l'association.
 
 _Voici un premier aperçu du jury, en cours de finalisation :_
 

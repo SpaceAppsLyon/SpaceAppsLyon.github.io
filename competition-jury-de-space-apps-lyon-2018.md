@@ -11,7 +11,7 @@ Il est constitué, entre autres, par des partenaires de l'association.
 
 _Voici un premier aperçu du jury, en cours de finalisation :_
 
-![Mathieu Barthélémy](/img/mbarthelemy.jpg) **Mathieu Barthélémy** - Astrophysicien à l’Institut de planétologie et d’astrophysique de Grenoble (IPAG-OSUG) et directeur du Centre spatial universitaire de Grenoble (CSUG)
+- **Mathieu Barthélémy** - Astrophysicien à l’Institut de planétologie et d’astrophysique de Grenoble (IPAG-OSUG) et directeur du Centre spatial universitaire de Grenoble (CSUG)
 
 - **Karine Princé**, Chercheur au Département Ecologie et Gestion de la Biodiversité au Muséum d'Histoire Naturelle 
 

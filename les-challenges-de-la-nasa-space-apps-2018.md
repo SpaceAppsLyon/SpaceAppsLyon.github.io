@@ -1,6 +1,6 @@
 ---
 title: Challenges
-subtitle: Les thématiques pour l'édition 2018 seront bientôt dévoilées
+subtitle: Les thématiques pour l'édition 2018
 sitemap:
   priority: 0.7
 discourseId: 24
@@ -27,7 +27,7 @@ Comprendre le domaine de la science est essentiel pour vivre sur Terre. Par exem
 Notre planète et notre système solaire sont pleins de surprises - des bonnes et des mauvaises ! Les bonnes sont celles que nous considérons comme nous étant utiles, par exemple quand une averse longtemps attendue remplit un lac ou un chateau d'eau. Nous appelons les mauvaises, des «catastrophes» - par exemple, lorsque cette même averse provoque une inondation dommageable. Ce que tous ces événements ont en commun est que 1) ils nous affectent ; et 2) nous aurions aimé savoir à l'avance leur venue, si possible, afin de pouvoir nous préparer.  
 ![Petite fusée](img/rocket-min.png) Les défis de cette catégorie vous demanderont d'analyser les données de la NASA pour **anticiper, surveiller et récupérer (ou utiliser au mieux !) ces événements “surprise”.**
 
-#### What the worl needs now is... - _Ce dont le monde à besoin mainenant est..._
+#### What the worl needs now is... - _Ce dont le monde a besoin maintenant est..._
 Les habitants de la terre ont besoin de beaucoup de choses : nourriture, eau, air pur, abris et d’autres choses encore. La liste est longue et diverse. Mais quelles sont ces choses? Que faut-il pour maintenir et améliorer la vie sur Terre pour tous ses habitants? Et que faudra-t-il pour faire cela sur d'autres planètes ?  
 ![Petite fusée](img/rocket-min.png) Les défis de cette catégorie vous demanderont d'aborder des **problèmes touchant un aspect important de la vie dans ce monde (ou d'autres !)** et d'interpréter les données et les concepts de la NASA de manière créative pour aider à trouver des solutions. 
 

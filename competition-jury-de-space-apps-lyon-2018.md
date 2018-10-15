@@ -16,7 +16,7 @@ _Voici un premier aperçu du jury, en cours de finalisation :_
 
 - **Karine Princé**, Chercheur au Département Ecologie et Gestion de la Biodiversité au Muséum d'Histoire Naturelle 
 
-- **Roberto Vargiolu**, Ingénieur de recherche CNRS au Laboratoire de tribologie et dynamique des systèmes
+- **Roberto Vargiolu**, Roberto Vargiolu, Ingénieur de Recherche Laboratoire de Tribologie et Dynamique des Systèmes - Ecole Centrale de Lyon - CNRS
 
 - **Antoine Billaut**, Géomètre, Directeur Technique Groupe ATGT 
 

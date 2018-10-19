@@ -11,7 +11,7 @@ Si vous vous êtes [déjà inscrits pour 2018](https://www.eventbrite.fr/e/bille
 
 _Voici un petit déroulé en cours de finalisation !_
 
-- Vendredi 9 octobre : soirée de lancement **à partir de 18h30**
+- Vendredi 19 octobre : soirée de lancement **à partir de 18h30**
 <br>_L'occasion de vous donner des précisions sur le déroulé du week-end, faire la présentation des catégories et constituer les équipes._
 
 - Samedi 20 Octobre : **8h30 - 23h00**
